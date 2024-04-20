@@ -21,3 +21,4 @@ class Solution:
 
 c=Solution()
 print(c.groupAnagrams(["eat","tea","tan","ate","nat","bat"]))
+print(c.groupAnagrams(["a"]))
